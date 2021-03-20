@@ -2,5 +2,11 @@
 
 ## Java
 
-1. Meaningful methods names
-2. Following naming convention
+1. Meaningful class, method, variables names
+2. Following the Naming Convention
+
+## Selenium
+
+1. Use ids over xpath
+2. Create POM files
+3. Test across different browsers
