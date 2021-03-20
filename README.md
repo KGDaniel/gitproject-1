@@ -2,7 +2,7 @@
 
 ## Java
 
-1. Meaningful methods names
-2. Following naming convention
+1. Meaningful class, method, variables names
+2. Following the Naming Convention
 
 ## Selenium
