@@ -9,3 +9,4 @@
 
 1. Use ids over xpath
 2. Create POM files
+3. Test across different browsers
