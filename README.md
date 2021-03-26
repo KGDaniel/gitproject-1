@@ -34,5 +34,5 @@ https://youtu.be/t_4lLR6F_yk?t=324
 
 **Part 3**
 * Create your own scenarios.
-* Upload your local projects to your remote repo (private repo mode is preferred).
-* Work on your Java-Selenium project, commit and push your changes often, create new branches, etc. 
+* Upload your local projects to your remote repository (private repo mode is preferred).
+* Work on your Java-Selenium project, commit and push your changes often, create new branches, etc.
