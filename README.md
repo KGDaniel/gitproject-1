@@ -13,8 +13,8 @@ https://youtu.be/t_4lLR6F_yk?t=324
 ## Practice Git Workflow
 
 **Part 1**
-1. Create in GitHUb a new repo https://github.com/new.
-1. Create in IntelliJ a new maven project from `maven-archetype-quickstart` archetype.
+1. Create in the GitHUb a new repo https://github.com/new.
+1. Create in the IntelliJ a new maven project from `maven-archetype-quickstart` archetype.
 2. Initialize an empty git local repo `git init`.
 3. Create and switch to a new branch `git checkout -b us1`.
 4. Make any changes to your maven project.
