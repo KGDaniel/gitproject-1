@@ -22,7 +22,7 @@ https://youtu.be/t_4lLR6F_yk?t=324
 6. Push your code to the remote main branch (checkin) `git remote add origin git@github.com:your-github-username/project-name.git` `git branch -M main` `git push -u origin main` (please replace `your-github-username/project-name` with respective information).
 
 **Part 2**
-1. Pull the recent code from remote main to your local main branch `git pull origin main`.
+1. Pull the recent code from the remote main to your local main branch `git pull origin main`.
 2. Create and switch to a new branch `git checkout -b us2`.
 3. Make any changes to your maven project.
 4. Add and commit changes to the local repo `git add -A` `git commit -m "your-message"` (messages should be meaningful).
