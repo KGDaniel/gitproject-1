@@ -18,7 +18,7 @@ https://youtu.be/t_4lLR6F_yk?t=324
 2. Initialize an empty git local repo `git init`.
 3. Create and switch to a new branch `git checkout -b us1`.
 4. Make any changes to your maven project.
-5. Add and commit changes to the local repo `git add -A` `git commit -m "Initial commit"`.
+5. Add and commit changes to the local repository `git add -A` `git commit -m "Initial commit"`.
 6. Push your code to the remote main branch (checkin) `git remote add origin git@github.com:your-github-username/project-name.git` `git branch -M main` `git push -u origin main` (please replace `your-github-username/project-name` with respective information).
 
 **Part 2**
